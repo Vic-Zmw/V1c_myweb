@@ -7,7 +7,7 @@ import react from "@astrojs/react";
 export default defineConfig({
   site: 'https://Vic-Zmw.github.io',
   
-  base: '/my-portfolio',
+  base: '/V1c_myweb/',
   
   trailingSlash: 'always',
   
