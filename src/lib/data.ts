@@ -1,10 +1,10 @@
 export const personalInfo = {
   name: "Vic",
   location: "Shang_Hai",
-  email: "lorem@ipsum.com",
+  email: "vic_zhang2080@foxmail.com",
   github: "https://github.com/loremipsum",
   linkedin: "https://linkedin.com/in/loremipsum",
-  profilePicture: "/profile.jpeg",
+  profilePicture: `${import.meta.env.BASE_URL}profile.jpeg`,
   heroDescription:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 };
